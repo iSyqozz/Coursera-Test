@@ -1,1 +1,2 @@
-git add . ; git commit -m "k" ; git push
+#/bin/bash
+git add . ; git commit -m "k" ;
