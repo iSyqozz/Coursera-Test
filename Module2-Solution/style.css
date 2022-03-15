@@ -1,0 +1,45 @@
+.list{
+            
+}
+.hmm{
+    font-size: medium;
+    font-style: oblique;
+    color: aqua;
+}
+section .force{
+    font-style: italic;
+    background-color: blueviolet;
+    text-decoration: dotted;
+    text-shadow: 0ex;
+    color: black;
+    opacity: 0.8;
+}
+section > .force{
+    background-color: brown;
+}
+.terma{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: x-large;
+    font-style: oblique;
+    font-stretch: extra-expanded;
+    color-interpolation-filters: linearRGB;
+    color: aquamarine;
+    background-color: antiquewhite;
+    opacity: 0.66;}
+nav li{
+    list-style: none;
+}
+a:link, a:visited{
+    text-decoration: none;
+    background-color: green;
+    border: 1px solid blue;
+    color: black;
+    display: block;
+    text-align: center;
+    width: 200px;
+    margin-bottom: 1px;
+}
+a:hover, a:active{
+    background-color: red;
+    color: purple;
+}
